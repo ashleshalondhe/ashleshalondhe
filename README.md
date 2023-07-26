@@ -7,7 +7,6 @@
 
 - 🏫 Currently Doing My Engineering at **Dr.D.Y.Patil institute of technology, Pimpri**.
 - 🔭 I’m currently working on **my programming skills**
-- 👀 I’m interested in **learning** new things and **exploring** them.
 - 👨‍💻 I’m good at using **WordPress**.
 - 🌱 I’m currently learning **Java**
 
