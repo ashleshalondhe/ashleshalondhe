@@ -5,8 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleshalondhe&label=Profile%20views&color=0e75b6&style=flat" alt="ashleshalondhe" /> </p>
 
-- 🔭 I’m currently working on **my programing skills**
-
+- 🏫 Currently Doing My Engineering at **Dr.D.Y.Patil institute of technology, Pimpri**.
+- 🔭 I’m currently working on **my programming skills**
+- 👀 I’m interested in **learning** new things and **exploring** them.
+- 👨‍💻 I’m good at using **WordPress**.
 - 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
