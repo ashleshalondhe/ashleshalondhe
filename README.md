@@ -1,7 +1,7 @@
-[![MasterHead](https://www.canva.com/design/DAFpvv7ME5U/m9CKjJCPWAUZdrk_VYnYng/edit?utm_content=DAFpvv7ME5U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+![MasterHead](https://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)
 <h1 align="center">Hi 👋, I'm Ashlesha Londhe</h1>
 <h3 align="center">I’m interested in learning new things and exploring them.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAFpvgfuFFs/OBzpmgyaX3MwzOxvmK5t3A/edit?utm_content=DAFpvgfuFFs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleshalondhe&label=Profile%20views&color=0e75b6&style=flat" alt="ashleshalondhe" /> </p>
 
