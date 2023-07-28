@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleshalondhe&label=Profile%20views&color=0e75b6&style=flat" alt="ashleshalondhe" /> </p>
 
 - 🏫 Currently Doing My Engineering at **Dr.D.Y.Patil institute of technology, Pimpri**.
+- ✨ Pursuing Bachelors of Engineering in **Electronics and Telecommunication**.
 - 🔭 I’m currently working on **my programming skills**
 - 👨‍💻 I’m good at using **WordPress**.
 - 🌱 I’m currently learning **Java**
