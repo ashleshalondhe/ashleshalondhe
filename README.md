@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **Java, HTML, CSS, JavaScript**
 
-- 🏫 Done My B.E. From **Dr. D. Y. Patil institute of technology, Pimpri.**
-
-- ✨ In **Electronics and Telecommunication.**
+- 🏫 Done My B.E. From **Dr. D. Y. Patil institute of technology, Pimpri. In **Electronics and Telecommunication.****
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashleshalondhe](https://github.com/ashleshalondhe)
 
