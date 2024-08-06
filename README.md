@@ -13,11 +13,7 @@
 
 - 🏫 Done My B.E. From **Dr. D. Y. Patil institute of technology, Pimpri.** In **Electronics and Telecommunication.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ashleshalondhe](https://github.com/ashleshalondhe)
-
 - 👨‍💻 I’m good at using **WordPress**
-
-- 📫 How to reach me **ashleshalondhe78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
